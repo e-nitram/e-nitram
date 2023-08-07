@@ -21,10 +21,7 @@
 
 - 📫 ** Docker, Kubernate, Trello, Git **
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <b><u>jradack.tech@gmail.com</u></b>
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
