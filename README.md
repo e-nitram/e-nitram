@@ -31,14 +31,14 @@
 <img src="https://www.hackerrank.com/wp-content/uploads/2020/05/hackerrank_logo-Pride.gif" width="187" height="18"/>
 
 
-- [Angular](https://github.com/hackerrank-test/hackerrank-angular-test)
-- [React](https://github.com/hackerrank-test/hackerrank-react-test)
-- [Node.js](https://github.com/hackerrank-test/hackerrank-nodejs-test)
-- [JavaScript](https://github.com/hackerrank-test/hackerrank-javascript-test)
-- [SQL](https://github.com/hackerrank-test/hackerrank-sql-test)
-- [VanillaJS](https://github.com/hackerrank-test/hackerrank-vanillajs-test)
-- [Java](https://github.com/hackerrank-test/hackerrank-java-test)
-- [Problem Solving](https://github.com/hackerrank-test/hackerrank-problemsolving-test)
+- [Angular]
+- [React]
+- [Node.js]
+- [JavaScript]
+- [SQL]
+- [VanillaJS]
+- [Java]
+- [Problem Solving]
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
