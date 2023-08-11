@@ -32,6 +32,7 @@
 
 
 - React
+- [CSS](https://www.hackerrank.com/certificates/daff16c6548c)
 - Node.js
 - JavaScript
 - SQL
