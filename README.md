@@ -34,9 +34,9 @@
 - React
 - [CSS](https://www.hackerrank.com/certificates/daff16c6548c)
 - Node.js
-- JavaScript
-- SQL
-- VanillaJS
+- [JavaScript](https://www.hackerrank.com/certificates/daff16c6548c)
+- [SQL](https://www.hackerrank.com/certificates/4bf6cb73c5e9)
+- [Go](https://www.hackerrank.com/certificates/33931895c92d)
 - Java
 - Problem Solving
 
